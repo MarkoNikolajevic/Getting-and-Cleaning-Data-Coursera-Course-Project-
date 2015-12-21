@@ -3,6 +3,7 @@
 # Identifiers
 * subject - the ID of the test subject
 * activity - the type of activity when the measurements were taken
+
 # Activity
 * WALKING - subject was walking during the test
 * WALKING_UPSTAIRS - subject was walking up stairs during the test
@@ -10,6 +11,7 @@
 * SITTING - subject was sitting during the test
 * STANDING - subject was standing during the test
 * LAYING - subject was laying down during the test
+
 # Measurements
 * timeBodyAccelerometer-mean()-X 
 * timeBodyAccelerometer-mean()-Y 

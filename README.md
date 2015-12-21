@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Coursera-Course-Project
-## This is the repo for the course project for the 'Getting and Cleaning Data' Coursera course. The script, run_analysis.R does the following things:
+ This is the repo for the course project for the 'Getting and Cleaning Data' Coursera course. The script, run_analysis.R does the following things:
 1. Load the libraries you need (reshape2, plyr, dplyr)
 2. Download the file if it doesn't already exist in your working directory, and unzip the file and set the right working directory.
 3. Reads all the Test and Train files from the data set.
